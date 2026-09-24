@@ -162,7 +162,7 @@ Repository:
 
 
 
-\[https://github.com/Faisal49A/VACAC-Graduate-Assessment]
+\https://github.com/Faisal49A/VACAC-Graduate-Assessment
 
 
 ## Demo Video
