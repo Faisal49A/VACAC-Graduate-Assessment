@@ -10,11 +10,11 @@ This project was created for the VACAC Graduate Software Engineer Task 2026.
 
 
 
-The project is a modular conveyor-building system developed in Unity. The user can select and place different conveyor types, snap conveyor segments together, and create continuous conveyor lines while the simulation is running.
+The project is a modular conveyor building system developed in Unity. The user can select and place different conveyor types, snap conveyor segments together, and create continuous conveyor lines while the simulation is running.
 
 
 
-Products are spawned onto the conveyor system and automatically travel between connected conveyor segments.
+Products are spawned onto the conveyor system and  travel between connected conveyor segments.
 
 
 
@@ -44,9 +44,9 @@ Products are spawned onto the conveyor system and automatically travel between c
 
 \- Products wait at unfinished conveyor ends and continue when a new conveyor is connected
 
-\- Free-moving camera controls
+\- Free moving camera controls
 
-\- In-game conveyor selection UI
+\- In game conveyor selection UI, so users can manually select which conveyor to use
 
 
 
@@ -124,7 +124,7 @@ Each conveyor contains input and output connection points. These points are used
 
 
 
-Products use a reusable conveyor movement component and can transition automatically between connected conveyor segments.
+Products use a reusable conveyor movement component and can transition automatically between two connected conveyor segments.
 
 
 
@@ -162,15 +162,12 @@ Repository:
 
 
 
-\[ADD YOUR GITHUB REPOSITORY LINK HERE]
+\[https://github.com/Faisal49A/VACAC-Graduate-Assessment]
 
 
+## Demo Video
 
-\## Demo Video
-
-
-
-\[ADD YOUR VIDEO LINK HERE]
+The demonstration video is included separately in the `Video_Demo` folder in the 'Deliverables'  folder.
 
 
 
@@ -178,7 +175,7 @@ Repository:
 
 
 
-The supplied VACAC conveyor and product assets were used to create the conveyor-building environment and product simulation.
+The supplied VACAC conveyor and product assets were used to create the conveyor builder environment and product simulation.
 
 
 
